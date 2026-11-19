@@ -1,8 +1,10 @@
 # trainee
 
-azureee 
+azureee
 
 1.fundamentals
-2. cloud computing 
+2. cloud computing
 3. AI
+
+'
 
